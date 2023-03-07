@@ -12,6 +12,11 @@ h1, h2, h3, h4, h5, h6 {
     font-family: sans-serif;
 }
 
+#lewydiv {
+color: gray;
+}
+
+
 
 body {
     display: flex;
@@ -29,7 +34,7 @@ body {
 }
 
     .Head .Left{
-        color: gray;
+        
         position: left;
         background-color: #497174;
         padding: 40px;
