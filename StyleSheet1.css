@@ -59,7 +59,7 @@ body {
 }
 
 .Skills .Projekt {
-    position: relative;
+    margin-text: auto;
     min-height: 100px;
 }
 
