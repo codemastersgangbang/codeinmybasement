@@ -29,6 +29,7 @@ body {
 }
 
     .Head .Left{
+        color: gray;
         position: left;
         background-color: #497174;
         padding: 40px;
