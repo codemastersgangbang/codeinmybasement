@@ -52,7 +52,7 @@ body {
 
 .pole {
     position: relative;
-    text-align: left;
+    text-align: auto;
     width: 70%
 }
 
