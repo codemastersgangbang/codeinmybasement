@@ -33,7 +33,22 @@ body {
     grid-template-columns: 1fr 3fr;
 }
 
+    .Head .Left{
+        
+        position: left;
+        background-color: #497174;
+        padding: 40px;
+        width: 70%;
+        border-radius: 25px;
+    }
 
+    .Head .Right {
+        position: relative;
+        background-color: #EFF5F5;
+        padding: 40px;
+        width: 100%;
+        border-radius: 25px;
+    }
 
 .pole {
     text-align: auto;
